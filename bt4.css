@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.khoi-to-dung {
+    width: 200px;
+    height: 400px;
+    background: black;
+}
+
+.khoi-to {
+    gap: 10px;
+}
+.khoi-nho {
+    width: 180px;
+    height: 30px;
+    border-style: groove;
+    margin-left: 8px;
+    display: flex;
+    color: white;
+    gap: 10px;
+    
+}
+.khoi-nho:active{
+    background-color: blue;
+}

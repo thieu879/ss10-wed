@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Noto Sans', sans-serif;
+}
+body{
+    width: 450px;
+}
+p{
+    font-size: 10px;
+}
+.khoang-cach {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.phai {
+    display: flex;
+    justify-content: flex-end;
+}
+
+

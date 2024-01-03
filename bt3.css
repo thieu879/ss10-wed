@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.me {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.me-1 {
+    display: flex;
+    gap: 10px;
+    flex-direction: column-reverse;
+}
+.vuong {
+    width: 50px;
+    height: 50px;
+    background: red;
+}
+b{
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+.me-tong {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.me-tong-1 {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px;
+}
+.me-2 {
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    
+}
+.me-3 {
+    display: flex;
+    gap: 10px;
+    flex-direction: row-reverse;
+}
+.me-tong-1 {
+    justify-content: center;
+
+}

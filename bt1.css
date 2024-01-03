@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.me {
+    display: flex;
+}
+.item-1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    background: red;
+}
+.item-2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: blue;
+}
+.item-3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    background: red;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 10px;
+    font-family: 'Noto Sans', sans-serif;
+}
+main {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+div {
+    text-align: center;
+    padding: 2vh;
+    background-color: orange;
+    align-items: center;
+}
+b{
+    color: white;
+}
